@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#weather input {
+    padding: 10px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+#weather button {
+    padding: 10px;
+}
+
+#weatherData {
+    margin-top: 20px;
+}
+
+#cityName {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#description, #temperature {
+    font-size: 18px;
+}
