@@ -1,1 +1,1 @@
-This is a weayer website
+This is a weather website
